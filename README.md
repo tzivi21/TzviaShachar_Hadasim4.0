@@ -34,3 +34,10 @@ app.use (cors ({
 תרגיל 3- קובץ WORD שנקרא מטלה3 שמכיל את התשובה.
 
 צילומי מסך של צד הלקוח במטלה 1:
+![Screenshot](screen-shots-client-side/1.png)
+![Screenshot](screen-shots-client-side/2.png)
+![Screenshot](screen-shots-client-side/3.png)
+![Screenshot](screen-shots-client-side/4.png)
+![Screenshot](screen-shots-client-side/5.png)
+![Screenshot](screen-shots-client-side/6.png)
+![Screenshot](screen-shots-client-side/7.png)
