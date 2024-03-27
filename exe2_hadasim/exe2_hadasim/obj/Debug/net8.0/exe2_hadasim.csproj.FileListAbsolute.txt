@@ -1,0 +1,14 @@
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\bin\Debug\net8.0\exe2_hadasim.exe
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\bin\Debug\net8.0\exe2_hadasim.deps.json
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\bin\Debug\net8.0\exe2_hadasim.runtimeconfig.json
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\bin\Debug\net8.0\exe2_hadasim.dll
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\bin\Debug\net8.0\exe2_hadasim.pdb
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\obj\Debug\net8.0\exe2_hadasim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\obj\Debug\net8.0\exe2_hadasim.AssemblyInfoInputs.cache
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\obj\Debug\net8.0\exe2_hadasim.AssemblyInfo.cs
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\obj\Debug\net8.0\exe2_hadasim.csproj.CoreCompileInputs.cache
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\obj\Debug\net8.0\exe2_hadasim.dll
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\obj\Debug\net8.0\refint\exe2_hadasim.dll
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\obj\Debug\net8.0\exe2_hadasim.pdb
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\obj\Debug\net8.0\exe2_hadasim.genruntimeconfig.cache
+C:\Users\tzivi\Desktop\צביה שחר -מבחן בית הדסים\exe2_hadasim\exe2_hadasim\obj\Debug\net8.0\ref\exe2_hadasim.dll
